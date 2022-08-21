@@ -11,3 +11,13 @@ You will apply the following preprocessing steps:
 - Handling NULL values
 - Encoding Categorical Data
 - Feature Scaling
+
+# Approach
+This project consists of the following milestones:
+
+-Input the Dataset
+-Data Description
+-Handling NULL Values
+-Encoding Categorical Data
+-Feature Scaling
+-Download the preprocessed Dataset
