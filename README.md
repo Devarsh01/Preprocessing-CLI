@@ -15,9 +15,9 @@ You will apply the following preprocessing steps:
 # Approach
 This project consists of the following milestones:
 
--Input the Dataset
--Data Description
--Handling NULL Values
--Encoding Categorical Data
--Feature Scaling
--Download the preprocessed Dataset
+- Input the Dataset
+- Data Description
+- Handling NULL Values
+- Encoding Categorical Data
+- Feature Scaling
+- Download the preprocessed Dataset
