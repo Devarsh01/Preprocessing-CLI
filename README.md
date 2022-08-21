@@ -8,6 +8,6 @@ One more advantage of preprocessing is that it is considered time consuming for 
 
 You will apply the following preprocessing steps:
 
-Handling NULL values
-Encoding Categorical Data
-Feature Scaling
+- Handling NULL values
+- Encoding Categorical Data
+- Feature Scaling
